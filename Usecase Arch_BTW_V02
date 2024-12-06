@@ -1,0 +1,24 @@
+@startuml
+left to right direction
+actor Gast as g
+actor Medewerker as m
+actor Beleidsmaker as b
+
+rectangle "Exotisch Nederland" {
+    usecase uc1 as "Plant- en diersoorten indienen"
+    usecase uc2 as "Informatie en waarnemingen bekijken"
+    usecase uc3 as "Waarnemingen analyseren"
+    usecase uc4 as "Suggestiesysteem gebruiken"
+    usecase uc5 as "Educatief spel spelen"
+}
+
+g -- uc1
+g -- uc2
+m -- uc2
+m -- uc3
+m -- uc4
+b -- uc2
+b -- uc3
+b -- uc4
+g -- uc5
+@enduml
