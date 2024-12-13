@@ -1,0 +1,22 @@
+@startuml
+
+left to right direction
+    class organisme
+    {
+        -soortnaam:string
+        -oorsprong:string
+        -locatie:
+
+    }
+    class dier 
+    {
+        -leefgebied:string
+    }
+    class plant 
+    {
+        -hoogte:double
+
+    }
+organisme --|> dier
+organisme --|> plant
+@enduml
