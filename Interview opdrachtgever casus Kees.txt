@@ -1,0 +1,20 @@
+Interview opdrachtgever casus: Kees Bekker.
+
+Het hele document moeten we de eisen hebben ze moeten vanuit het bestand van de casus komen.
+
+De organisatie is het beheren van het landschap.
+
+ze hebben 50 medewerkers en 45 medewerkers die actief zijn en met de hulp van de app kunnen ze de exoten in de gaten houden.
+want met de 100 vrijwilligers lukt dat niet zonder app. Ze willen data punten verzamelen.
+
+De app moet aantrekkelijk zijn om de data punten te verzamelen.
+
+Ze moeten ook kunnen zie waar en wanneer de exoten zijn gezien aan de hand van een foto en beschrijving.
+
+De app kan op computer voor de medewerkers maar voor de mensen buiten het bedrijf zou het handig zijn als het een mobiele applicatie.
+
+Er moet een moderator tussen zitten zodat niet alle data naar onbekende derde partijen word gestuurd.
+
+Ook willen ze over de jaren heen terug kunnen kijken hoe het evolueert.
+
+Om het makkelijker te maken voor de gebruiker zouden ze voor bekende soorten een snel functie kunnen maken.
